@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_license_name" translatable="false">GNU GPL 3.0</string>
-    <string name="app_community_url" translatable="false">https://matrix.to/#/#openlauncher:matrix.org</string>
+    <string name="app_community_url" translatable="false">https://github.com/CookieGamesOfficial/SmartCookieLauncher/</string>
     <string name="app_bugreport_url" translatable="false">https://github.com/CookieGamesOfficial/SmartCookieLauncher/issues</string>
     <string name="app_translate_url" translatable="false">https://github.com/CookieGamesOfficial/SmartCookieLauncher#contributions</string>
     <string name="app_web_url" translatable="false">https://github.com/CookieGamesOfficial/SmartCookieLauncher</string>
