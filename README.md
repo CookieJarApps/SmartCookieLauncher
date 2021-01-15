@@ -1,5 +1,5 @@
 # SmartCookieLauncher
-A free and open source launcher for Android. It is a fork of OpenLauncher to continue development and add new features.
+A free and open source launcher for Android. It is a fork of Lawnchiar to continue development and add new features.
 
 ### Features
 
@@ -13,8 +13,8 @@ A free and open source launcher for Android. It is a fork of OpenLauncher to con
 
 ## Contributions
 
-The project is always open for contributions and accepts pull requests. Please use the _auto reformat feature_ in Android Studio before sending a pull request. Translations can be contributed on GitHub. You can use Stringlate to translate the project directly on your Android phone. It allows you to post the translations on GitHub with little effort.
+The project is always open for contributions and accepts pull requests. 
 
 ### License
 
-The app is licensed with Apache 2.0.
+This project is under the GNU-GPL 3.0
